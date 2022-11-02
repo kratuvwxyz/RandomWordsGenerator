@@ -8,11 +8,11 @@
 
 ### LICENSE
 
-- [MIT](https://github.com/kratuvwxyz/LICENSE) © 2022 Kratu Desai, DESAIGN LLC.
+- [MIT](https://github.com/kratuvwxyz/LICENSE) © 2022 DESAIGN LLC.
 
 ## CONTACT
 
-Thank you for your time and consideration. My mantra is simple, *chase perfection to catch excellence*. I hope you enjoy my work. **I'd love to hear from you.** Please email me at <a href="mailto:github@desaign.studio?Subject=Message from Github">github@desaign.studio</a>.
+Thank you for your time and consideration. Our mantra is simple, *chase perfection to catch excellence*. We hope you enjoy this work. **We would love to hear from you.** Please email us at <a href="mailto:github@desaign.studio?Subject=Message from Github">github@desaign.studio</a>.
 
 <hr/>
 
