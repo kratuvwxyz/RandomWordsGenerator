@@ -1,4 +1,4 @@
-## Random Word Generator by Desaign Studio
+## Random Words Generator by Desaign Studio
 
 <img src="./desaign-background.png" alt="Desaign Background" width="500">
 
